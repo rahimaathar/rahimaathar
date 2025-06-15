@@ -5,7 +5,7 @@
 ---
 
 ## 💡 About Me
-I’m a developer with a passion for building thoughtful, human-centered web applications. I enjoy turning ideas into intuitive, secure, and scalable solutions—especially where tech meets real-world impact.
+I’m a developer with a passion for building thoughtful, human-centered web applications. I enjoy turning ideas into intuitive, secure, and scalable solutions -especially where tech meets real-world impact.
 
 Whether it’s developing responsive frontends or connecting APIs on the backend, I’m always exploring new technologies and better ways to solve problems.
 
